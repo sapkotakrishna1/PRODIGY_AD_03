@@ -1,0 +1,11 @@
+## StopWatch
+This stopwatch feature allows users to measure time intervals with options to start, stop, record laps, and reset the timer.
+
+##Overview
+Start: Click or tap "Start" to begin the stopwatch.
+Stop: Press "Stop" to pause the timer.
+Lap: Use "Lap" to record a lap time while the stopwatch continues running.
+Reset: Press "Reset" to clear all recorded laps and reset the stopwatch to zero.
+
+##Support
+For any issues or feedback, please contact........
